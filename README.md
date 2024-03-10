@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Onur VAROL
-#A Software Engineer Student from Kirklareli Universtiy/Turkiye. I live in Istanbul.
+# A Software Engineer Student from Kirklareli Universtiy/Turkiye. I live in Istanbul.
 
 - 🔭 I’m currently working on Personal Asistant App 
 - 🌱 I’m currently learning Kotlin
