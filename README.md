@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Personal Asistant App 
-- 🌱 I’m currently learning Kotlin
+🔭 I’m currently working on Personal Asistant App 
+🌱 I’m currently learning Kotlin
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Flutter
-- 📫 How to reach me: vrl.onur02@gmail.com
+💬 Ask me about Flutter
+📫 How to reach me: vrl.onur02@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
