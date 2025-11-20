@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur Varol</h1>
 <h3 align="center">A Software Engineer Student from Kirklareli Universtiy/Turkiye. I live in Istanbul.</h3>
 
-- 🔭 I’m currently working on **Personal Asistant App**
+- 🔭 I’m currently working on **English Mobile App, AI Agent Projects**
 
 - 🌱 I’m currently learning **Kotlin**
 
